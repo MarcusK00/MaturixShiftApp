@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\persistence\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\persistence\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\createlogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\createlogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\editemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\editemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\deleteemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\deleteemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\editshiftviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\editshiftviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\persistence\\shiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\persistence\\shiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\createemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\createemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\editshiftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\editshiftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\newshiftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\newshiftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\editemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\editemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\deleteemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\deleteemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\createlogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\createlogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\openlogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\openlogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\maturixshiftproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\maturixshiftproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\commands\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\commands\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\newshiftviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\newshiftviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\editshiftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\editshiftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\contactview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\contactview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\createlogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\createlogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\contactview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\contactview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\openlogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\openlogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\newshiftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\newshiftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\openlogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\openlogview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.DEPARTMENT.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.EMPLOYEE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|c:\\users\\marcu\\desktop\\datamatiker\\skoleprojekter\\maturix\\maturixshiftproject\\maturixshiftproject\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D0B1E-9C54-4E63-AE09-F39480627576}|MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj|solutionrelative:maturixshiftproject\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marcu\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Persistence\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\CategoryRepository.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Persistence\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:39:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\ContactViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\ContactViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateLogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\CreateLogViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\CreateLogViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\CreateLogViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\CreateLogViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAzwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:13.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\LogRepository.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Persistence\\LogRepository.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\LogRepository.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Persistence\\LogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:38:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Persistence\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\EmployeeRepository.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Persistence\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:38:07.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\CreateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\CreateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\CreateEmployeeViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\CreateEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:01:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\DeleteEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\DeleteEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\DeleteEmployeeViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\DeleteEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:27:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditShiftViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\EditShiftViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\EditShiftViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\EditShiftViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\EditShiftViewModel.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Irepository.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Interfaces\\Irepository.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Interfaces\\Irepository.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Interfaces\\Irepository.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Interfaces\\Irepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:29:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\EditEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\EditEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\EditEmployeeViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\EditEmployeeViewModel.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:08:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\HomeView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T08:48:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:08:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\ShiftRepository.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Persistence\\ShiftRepository.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Persistence\\ShiftRepository.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Persistence\\ShiftRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:54:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:42.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Log.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:17:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateEmployeeView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\CreateEmployeeView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateEmployeeView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\CreateEmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T09:37:02.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\appsettings.json",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\appsettings.json",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:50:10.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditShiftView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T08:21:36.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewShiftView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T09:28:47.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditEmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditEmployeeView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\EditEmployeeView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditEmployeeView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\EditEmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T08:48:29.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteEmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\DeleteEmployeeView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\DeleteEmployeeView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\DeleteEmployeeView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\DeleteEmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T10:28:25.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateLogView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T06:51:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:01:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:23:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Shift.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Models\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:17:37.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Employee.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:17:37.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Department.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:17:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Models\\Category.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:36:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OpenLogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\OpenLogViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\OpenLogViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\OpenLogViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\OpenLogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:54.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NavigationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Commands\\NavigationCommand.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Commands\\NavigationCommand.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Commands\\NavigationCommand.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Commands\\NavigationCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:10:08.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MATURIXSHIFTPROJECT.csproj",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T08:08:01.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NewShiftViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\NewShiftViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\NewShiftViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\NewShiftViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\NewShiftViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:52:48.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SettingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\SettingViewModel.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\ViewModels\\SettingViewModel.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\ViewModels\\SettingViewModel.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\ViewModels\\SettingViewModel.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:53:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NavigationStore.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Stores\\NavigationStore.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Stores\\NavigationStore.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Stores\\NavigationStore.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Stores\\NavigationStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:10:13.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:21:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T08:21:53.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\App.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\App.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\App.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T09:28:46.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:31:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\App.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:56:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateLogView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\CreateLogView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:51:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditShiftView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\EditShiftView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:34:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ContactView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\ContactView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\ContactView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\ContactView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\ContactView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:51:53.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ContactView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\ContactView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\ContactView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\ContactView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\ContactView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T06:51:51.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OpenLogView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T09:11:56.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NewShiftView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\NewShiftView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:34:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T06:49:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OpenLogView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\OpenLogView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:01:59.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "dbo.DEPARTMENT.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.DEPARTMENT.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.DEPARTMENT.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-23T09:10:54.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.EMPLOYEE.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.EMPLOYEE.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MARCUSK00_SQLEXPRESS/Maturix/True/SqlTable/dbo.EMPLOYEE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-22T08:05:14.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\AssemblyInfo.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:40:35.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml.cs",
+              "ToolTip": "C:\\Users\\marcu\\Desktop\\Datamatiker\\Skoleprojekter\\Maturix\\MATURIXSHIFTPROJECT\\MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml.cs",
+              "RelativeToolTip": "MATURIXSHIFTPROJECT\\Views\\SettingsView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:50:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\marcu\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:10:53.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
