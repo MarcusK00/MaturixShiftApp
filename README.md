@@ -59,7 +59,7 @@ Developed in a six‑person team for Maturix, this Windows desktop application s
 3. **Collaboration**  
    - Git branching (feature, develop, release) across six developers  
    - Weekly stakeholder demos and requirements refinement
-   - GitHub page of original product with branches: [GitHub_Repository](https://github.com/Sakze7/Maturix)
+   - GitHub page of original product with branches: [GitHub Repository](https://github.com/Sakze7/Maturix)
 
 ---
 
