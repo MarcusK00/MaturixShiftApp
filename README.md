@@ -1,6 +1,6 @@
-# 🕒 Maturix Shift Management App
+# 🕒 Shift Management App
 
-A robust desktop application for managing employee data and shift schedules. Built by a team of six developers and deployed in production, this WPF-based CRUD tool features real‑time updates, intuitive UI, and seamless stakeholder‑driven workflows.
+A robust desktop application for managing employee data and shift schedules. Built by a team of six developers and deployed in production, this WPF-based CRUD tool features real‑time updates, intuitive UI, and seamless stakeholder‑driven workflows. Made for a school project.
 
 ---
 ![createUs](https://github.com/user-attachments/assets/22332d69-c87a-4667-b8b3-6bdac3106d0d)
@@ -19,7 +19,7 @@ A robust desktop application for managing employee data and shift schedules. Bui
 
 ## 🧠 About
 
-Developed in a six‑person team for Maturix, this Windows desktop application streamlines the creation, editing, and management of users and shifts. We collaborated directly with company stakeholders to gather requirements, iterate on feedback, and ensure the tool fit existing operational workflows. The app is currently in use at the company and deployed on internal workstations.
+Developed in a six‑person team, this Windows desktop application streamlines the creation, editing, and management of users and shifts. We collaborated directly with company stakeholders to gather requirements, iterate on feedback, and ensure the tool fit existing operational workflows. The app is currently in use at the company and deployed on internal workstations.
 
 ---
 
