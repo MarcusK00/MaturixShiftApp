@@ -3,6 +3,8 @@
 A robust desktop application for managing employee data and shift schedules. Built by a team of six developers and deployed in production, this WPF-based CRUD tool features real‑time updates, intuitive UI, and seamless stakeholder‑driven workflows.
 
 ---
+![createUs](https://github.com/user-attachments/assets/22332d69-c87a-4667-b8b3-6bdac3106d0d)
+![homevi](https://github.com/user-attachments/assets/5828145c-1d40-4c2d-b183-7bd9a0a61c9b)
 
 ## 📋 Table of Contents
 - [About](#about)  
