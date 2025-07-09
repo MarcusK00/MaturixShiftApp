@@ -12,8 +12,6 @@ A desktop application for managing employee data and shift schedules. Built by a
 - [Technologies](#technologies)  
 - [Architecture & Workflow](#architecture--workflow)  
 - [Installation & Setup](#installation--setup)  
-- [Usage](#usage)  
-- [Future Improvements](#future-improvements)  
 
 ---
 
