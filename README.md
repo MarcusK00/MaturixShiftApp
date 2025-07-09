@@ -1,6 +1,6 @@
 # 🕒 Shift Management App
 
-A robust desktop application for managing employee data and shift schedules. Built by a team of six developers and deployed in production, this WPF-based CRUD tool features real‑time updates, intuitive UI, and seamless stakeholder‑driven workflows. Made for a school project.
+A desktop application for managing employee data and shift schedules. Built by a team of six developers and deployed in production, this WPF-based CRUD tool features real‑time updates, intuitive UI, and seamless stakeholder‑driven workflows. Made for a school project.
 
 ---
 ![createUs](https://github.com/user-attachments/assets/22332d69-c87a-4667-b8b3-6bdac3106d0d)
@@ -31,7 +31,7 @@ Developed in a six‑person team, this Windows desktop application streamlines t
   Create, read, update, and delete employee records in the Contact Book.  
 - **Shift Management**  
   CRUD operations for shifts, with a calendar view to visualize schedules.  
-- **Responsive Modern UI**  
+- **Responsive UI**  
   WPF front‑end that adapts to window resizing and matches company branding.  
 - **Stakeholder-Driven**  
   Iterative development cycles based on direct feedback from end users.  
@@ -53,10 +53,10 @@ Developed in a six‑person team, this Windows desktop application streamlines t
 ## 🏗️ Architecture & Workflow
 
 1. **Client‑Side (WPF)**  
-   - MVVM pattern for separation of concerns  
-   - Responsive XAML layouts, custom styles to match company colors  
+   - MVVM pattern for separation of concerns
+   - Persistence Pattern  
 2. **Data Layer**  
-   - Local SQL Server Express `.mdf` database  
+   - Local SQL Server Express database  
    - ADO.NET for data access and real‑time data notifications  
 3. **Collaboration**  
    - Git branching (feature, develop, release) across six developers  
@@ -78,7 +78,11 @@ Developed in a six‑person team, this Windows desktop application streamlines t
    git clone https://github.com/MarcusK00/MaturixShiftApp.git
    cd MaturixShiftApp
    ```
-   
+3. **Nuget packages for database access**
+   ```bash
+   dotnet add package Microsoft.Extensions.Configuration.Json --version 9.0.7
+   dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 10.0.0-preview.5.25277.114
+   ```
 ---
 
 ## 👤 Author & Team
