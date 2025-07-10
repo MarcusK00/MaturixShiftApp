@@ -11,7 +11,8 @@ A desktop application for managing employee data and shift schedules. Built by a
 - [Features](#features)  
 - [Technologies](#technologies)  
 - [Architecture & Workflow](#architecture--workflow)  
-- [Installation & Setup](#installation--setup)  
+- [Installation & Setup](#installation--setup)
+- [Developer Team](#developer-team)  
 
 ---
 
@@ -83,7 +84,7 @@ Developed in a six‑person team, this Windows desktop application streamlines t
    ```
 ---
 
-## 👤 Author & Team
+## 👤 Developer Team
 **Team Members:**
 - [Me](https://github.com/MarcusK00)
   
